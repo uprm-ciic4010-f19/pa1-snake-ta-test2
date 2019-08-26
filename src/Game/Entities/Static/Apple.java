@@ -17,6 +17,12 @@ public class Apple {
         this.xCoord=x;
         this.yCoord=y;
     }
+    
+    
+    public static void pirnt()
+    {
+    	System.out.println("hello");
+    }
 
 
 }
